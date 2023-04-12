@@ -1,0 +1,7 @@
+com\Selenium\Assignment\Pages\FlightBookingPage.class
+com\Selenium\Assignment\base\basepage.class
+com\Selenium\Assignment\TestCases\FlightBookingTest.class
+com\Selenium\Assignment\Pages\SearchPage.class
+com\Selenium\Assignment\TestCases\SearchTest.class
+com\Selenium\Assignment\Pages\TopDealsPage.class
+com\Selenium\Assignment\TestCases\TopDealsTest.class

@@ -1,0 +1,85 @@
+[INFO ] 2023-01-06 11:38:09.212 [main] FlightBookingTest - Successfully Opened Flight Booking Page
+[INFO ] 2023-01-06 11:38:11.287 [main] FlightBookingTest - Assertion passed Successfully
+[INFO ] 2023-01-06 11:38:15.072 [main] FlightBookingTest - Successfully Opened Flight Booking Page
+[INFO ] 2023-01-06 11:38:24.170 [main] FlightBookingTest - Searched Successfully
+[INFO ] 2023-01-06 11:38:24.176 [main] FlightBookingTest - Assertion passed Successfully
+[INFO ] 2023-01-06 11:38:43.508 [main] FlightBookingTest - Successfully Opened Flight Booking Page
+[INFO ] 2023-01-06 11:38:52.452 [main] FlightBookingTest - Assertion passed Successfully
+[INFO ] 2023-01-06 11:38:56.249 [main] FlightBookingTest - Successfully Opened Flight Booking Page
+[INFO ] 2023-01-06 11:39:04.590 [main] FlightBookingTest - Assertion passed Successfully
+[INFO ] 2023-01-06 11:39:29.678 [main] TopDealsTest - Successfully Opened Top Deals Page
+[INFO ] 2023-01-06 11:39:29.687 [main] TopDealsTest - Assertion passed Successfully
+[INFO ] 2023-01-06 11:39:35.613 [main] SearchTest - Searched Successfully
+[INFO ] 2023-01-06 11:39:39.428 [main] SearchTest - Searched Successfully
+[INFO ] 2023-01-06 11:39:41.835 [main] SearchTest - Failed to add to cart
+[INFO ] 2023-01-06 11:39:45.976 [main] SearchTest - Searched Successfully
+[INFO ] 2023-01-06 11:39:48.502 [main] SearchTest - Proceed to Checkout Successfully
+[INFO ] 2023-01-06 11:39:50.513 [main] SearchTest - Added To Cart
+[INFO ] 2023-01-06 11:39:53.551 [main] SearchTest - Searched Successfully
+[INFO ] 2023-01-06 11:39:56.208 [main] SearchTest - Proceed to Checkout Successfully
+[INFO ] 2023-01-06 11:40:02.714 [main] SearchTest - Placed Order Successfully
+[INFO ] 2023-01-06 11:40:29.179 [main] SearchTest - Failed to place order
+[INFO ] 2023-01-09 11:53:25.303 [main] FlightBookingTest - Successfully Opened Flight Booking Page
+[INFO ] 2023-01-09 11:53:27.979 [main] FlightBookingTest - Assertion passed Successfully
+[INFO ] 2023-01-09 11:53:32.503 [main] FlightBookingTest - Successfully Opened Flight Booking Page
+[INFO ] 2023-01-09 11:53:41.524 [main] FlightBookingTest - Searched Successfully
+[INFO ] 2023-01-09 11:53:41.535 [main] FlightBookingTest - Assertion passed Successfully
+[INFO ] 2023-01-09 11:53:45.707 [main] FlightBookingTest - Successfully Opened Flight Booking Page
+[INFO ] 2023-01-09 11:53:54.233 [main] FlightBookingTest - Assertion passed Successfully
+[INFO ] 2023-01-09 11:53:58.246 [main] FlightBookingTest - Successfully Opened Flight Booking Page
+[INFO ] 2023-01-09 11:54:06.739 [main] FlightBookingTest - Assertion passed Successfully
+[INFO ] 2023-01-09 11:54:14.788 [main] TopDealsTest - Successfully Opened Top Deals Page
+[INFO ] 2023-01-09 11:54:14.809 [main] TopDealsTest - Assertion passed Successfully
+[INFO ] 2023-01-09 11:54:20.652 [main] SearchTest - Searched Successfully
+[INFO ] 2023-01-09 11:54:24.661 [main] SearchTest - Searched Successfully
+[INFO ] 2023-01-09 11:54:27.322 [main] SearchTest - Failed to add to cart
+[INFO ] 2023-01-09 11:54:31.849 [main] SearchTest - Searched Successfully
+[INFO ] 2023-01-09 11:54:34.406 [main] SearchTest - Proceed to Checkout Successfully
+[INFO ] 2023-01-09 11:54:36.421 [main] SearchTest - Added To Cart
+[INFO ] 2023-01-09 11:54:39.920 [main] SearchTest - Searched Successfully
+[INFO ] 2023-01-09 11:54:42.535 [main] SearchTest - Proceed to Checkout Successfully
+[INFO ] 2023-01-09 11:54:49.070 [main] SearchTest - Placed Order Successfully
+[INFO ] 2023-01-09 11:55:00.425 [main] SearchTest - Failed to place order
+[INFO ] 2023-01-09 18:29:48.565 [main] FlightBookingTest - Successfully Opened Flight Booking Page
+[INFO ] 2023-01-09 18:29:59.437 [main] TopDealsTest - Successfully Opened Top Deals Page
+[INFO ] 2023-01-09 18:29:59.442 [main] TopDealsTest - Assertion passed Successfully
+[INFO ] 2023-01-31 15:53:12.974 [main] FlightBookingTest - Successfully Opened Flight Booking Page
+[INFO ] 2023-01-31 15:53:16.311 [main] FlightBookingTest - Assertion passed Successfully
+[INFO ] 2023-01-31 15:53:26.646 [main] FlightBookingTest - Successfully Opened Flight Booking Page
+[INFO ] 2023-01-31 15:53:53.496 [main] FlightBookingTest - Successfully Opened Flight Booking Page
+[INFO ] 2023-01-31 15:54:02.072 [main] FlightBookingTest - Assertion passed Successfully
+[INFO ] 2023-01-31 15:54:09.970 [main] FlightBookingTest - Successfully Opened Flight Booking Page
+[INFO ] 2023-01-31 15:54:18.490 [main] FlightBookingTest - Assertion passed Successfully
+[INFO ] 2023-01-31 15:54:26.515 [main] TopDealsTest - Successfully Opened Top Deals Page
+[INFO ] 2023-01-31 15:54:26.536 [main] TopDealsTest - Assertion passed Successfully
+[INFO ] 2023-01-31 15:54:33.265 [main] SearchTest - Searched Successfully
+[INFO ] 2023-01-31 15:54:37.460 [main] SearchTest - Searched Successfully
+[INFO ] 2023-01-31 15:54:40.087 [main] SearchTest - Failed to add to cart
+[INFO ] 2023-01-31 15:54:45.285 [main] SearchTest - Searched Successfully
+[INFO ] 2023-01-31 15:54:47.733 [main] SearchTest - Proceed to Checkout Successfully
+[INFO ] 2023-01-31 15:54:49.747 [main] SearchTest - Added To Cart
+[INFO ] 2023-01-31 15:54:54.242 [main] SearchTest - Searched Successfully
+[INFO ] 2023-01-31 15:54:56.755 [main] SearchTest - Proceed to Checkout Successfully
+[INFO ] 2023-01-31 15:55:03.408 [main] SearchTest - Placed Order Successfully
+[INFO ] 2023-01-31 15:55:14.285 [main] SearchTest - Failed to place order
+[INFO ] 2023-04-11 21:24:58.703 [main] FlightBookingTest - Successfully Opened Flight Booking Page
+[INFO ] 2023-04-11 21:25:02.303 [main] FlightBookingTest - Assertion passed Successfully
+[INFO ] 2023-04-11 21:25:10.283 [main] FlightBookingTest - Successfully Opened Flight Booking Page
+[INFO ] 2023-04-11 21:25:22.459 [main] FlightBookingTest - Searched Successfully
+[INFO ] 2023-04-11 21:25:22.471 [main] FlightBookingTest - Assertion passed Successfully
+[INFO ] 2023-04-11 21:25:28.095 [main] FlightBookingTest - Successfully Opened Flight Booking Page
+[INFO ] 2023-04-11 21:25:36.545 [main] FlightBookingTest - Assertion passed Successfully
+[INFO ] 2023-04-11 21:25:41.979 [main] FlightBookingTest - Successfully Opened Flight Booking Page
+[INFO ] 2023-04-11 21:25:50.412 [main] FlightBookingTest - Assertion passed Successfully
+[INFO ] 2023-04-11 21:26:00.156 [main] TopDealsTest - Successfully Opened Top Deals Page
+[INFO ] 2023-04-11 21:26:00.166 [main] TopDealsTest - Assertion passed Successfully
+[INFO ] 2023-04-11 21:26:07.063 [main] SearchTest - Searched Successfully
+[INFO ] 2023-04-11 21:26:11.626 [main] SearchTest - Searched Successfully
+[INFO ] 2023-04-11 21:26:14.009 [main] SearchTest - Failed to add to cart
+[INFO ] 2023-04-11 21:26:21.054 [main] SearchTest - Searched Successfully
+[INFO ] 2023-04-11 21:26:23.550 [main] SearchTest - Proceed to Checkout Successfully
+[INFO ] 2023-04-11 21:26:25.568 [main] SearchTest - Added To Cart
+[INFO ] 2023-04-11 21:26:31.206 [main] SearchTest - Searched Successfully
+[INFO ] 2023-04-11 21:26:33.842 [main] SearchTest - Proceed to Checkout Successfully
+[INFO ] 2023-04-11 21:26:40.299 [main] SearchTest - Placed Order Successfully
+[INFO ] 2023-04-11 21:26:52.040 [main] SearchTest - Failed to place order
